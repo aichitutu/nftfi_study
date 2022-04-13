@@ -2,7 +2,7 @@
 
 pragma solidity 0.8.4;
 
-import "@openzeppelin/contracts/proxy/Clones.sol";
+import "../../@openzeppelin/contracts/proxy/Clones.sol";
 
 import "../interfaces/INftfiHub.sol";
 import "../utils/ContractKeys.sol";
