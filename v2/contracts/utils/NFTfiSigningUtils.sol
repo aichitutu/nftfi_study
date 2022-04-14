@@ -4,7 +4,7 @@ pragma solidity 0.8.4;
 
 import "../interfaces/IBundleBuilder.sol";
 import "../loans/direct/loanTypes/LoanData.sol";
-import "@openzeppelin/contracts/utils/cryptography/SignatureChecker.sol";
+import "../../@openzeppelin/contracts/utils/cryptography/SignatureChecker.sol";
 
 /**
  * @title  NFTfiSigningUtils
